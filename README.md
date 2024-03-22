@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Backend Developer with a deep-rooted passion
 - **Frontend:** HTML, CSS, SASS, JavaScript, jQuery, React, Bootstrap, Tailwind CSS..
 - **Backend:** PHP, MySQL, Python
 - **DevOps:** Linux, Jenkins
-- **Tools:** Git, Docker (currently learning), Kubernetes (on my learning path)
+- **Tools:** Git, Docker, Kubernetes (currently learning)
 
 ## 💼 What I Do
 
