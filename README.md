@@ -1,6 +1,6 @@
 # Hello, World! I'm Miloš 👨‍💻
 
-Welcome to my GitHub profile! I'm a Backend Developer with a deep-rooted passion for DevOps, constantly exploring new technologies and methodologies to push the boundaries of what's possible in web development. With 7 years of experience in the trenches, I've honed my skills across a broad tech stack, driven by my curiosity and my commitment to excellence in every line of code I write.
+Welcome to my GitHub profile! I'm a Backend Developer with a deep-rooted passion for DevOps, constantly exploring new technologies and methodologies to push the boundaries of what's possible in web development. With 5 years of experience in the trenches, I've honed my skills across a broad tech stack, driven by my curiosity and my commitment to excellence in every line of code I write.
 
 ## 🛠 Tech Stack
 
