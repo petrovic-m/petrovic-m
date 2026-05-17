@@ -1,36 +1,40 @@
-# Hello, World! I'm Miloš 👨‍💻
+# Miloš Petrović
 
-Welcome to my GitHub profile! I'm a Backend Developer with a deep-rooted passion for DevOps, constantly exploring new technologies and methodologies to push the boundaries of what's possible in web development. With 5 years of experience in the trenches, I've honed my skills across a broad tech stack, driven by my curiosity and my commitment to excellence in every line of code I write.
+Senior Software Engineer with 6+ years building production backends in PHP / Laravel — from multi-tenant SaaS and enterprise ERP to high-volume billing platforms.
 
-## 🛠 Tech Stack
-
-- **Frontend:** HTML, CSS, SASS, JavaScript, jQuery, React, Bootstrap, Tailwind CSS..
-- **Backend:** PHP, MySQL, Python
-- **DevOps:** Linux, Jenkins
-- **Tools:** Git, Docker, Kubernetes (currently learning)
-
-## 💼 What I Do
-
-I blend my knowledge of backend development with my enthusiasm for DevOps to build scalable, efficient, and robust web applications. I thrive on challenges and believe in the power of automation and continuous integration/deployment to streamline development processes.
-
-## 🌱 I’m currently learning ...
-
-- Deep diving into **Docker** and **Kubernetes** to enhance my DevOps skills.
-- Exploring advanced **JavaScript frameworks** to expand my frontend capabilities.
-
-## 🤝 Let's Connect!
-
-Whether you're looking for collaboration on a project, need a hand with your code, or just want to say hi, feel free to reach out!
-
-- 📫 How to reach me: petrovic.milos.b@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/milos-petrovic-it
-
-## ⚡ Fun fact
-
-I love exploring the intersection of technology and music, and I'm always on the lookout for ways to integrate creative coding into artistic expressions.
+Currently backend on a telco billing platform at **mts sistemi i integracije**, and taking on freelance contracts for architecture-level work on scalable Laravel systems.
 
 ---
 
-![Milos's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrovic-m&show_icons=true&theme=radical)
+## What I work with
 
+**Backend**
+PHP 8.x · Laravel · CakePHP · PHPUnit · Laravel Horizon · REST APIs · Queue Workers · Event-driven Design
 
+**Data**
+MySQL · PostgreSQL · Redis · Database Design · Query Tuning · Lock-contention Diagnosis
+
+**Frontend**
+Inertia.js · JavaScript · HTML5 · SASS · jQuery · Bootstrap · Tailwind CSS
+
+**DevOps & Infra**
+Docker · Kubernetes / k3s · Proxmox · Hetzner · Linux · Nginx · Ansible · Terraform · WireGuard · Prometheus · Grafana · Jenkins
+
+---
+
+## What I build
+
+- Multi-tenant SaaS platforms on Laravel — separate-database-per-tenant, middleware-based tenant resolution, automated provisioning
+- ERP systems covering finance, inventory, procurement, sales, HR
+- Billing and invoicing engines at scale — PDF generation pipelines, queue workers, tight SLA requirements
+- Integrations with external systems — ERP, CRM, DMS, payment providers, webhooks
+
+---
+
+## Open to
+
+Senior backend roles (remote, EU / US time zones) · Long-term freelance contracts · Architecture consulting on scalable Laravel / PHP systems
+
+---
+
+[devmilos.com](https://devmilos.com) · [hello@devmilos.com](mailto:hello@devmilos.com) · [LinkedIn](https://www.linkedin.com/in/milos-petrovic-it)
